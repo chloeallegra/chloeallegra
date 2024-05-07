@@ -1,4 +1,7 @@
-### Hi there 👋
+# About me
+
+- 🔭 I'm currently working on improving my coding skills.
+
 
 <!--
 **chloeallegra/chloeallegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile
+
 -->
